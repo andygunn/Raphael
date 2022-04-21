@@ -1,24 +1,27 @@
-[submodule "kicad_files/libraries/acheron_Symbols"]
-	path = kicad_files/libraries/acheron_Symbols
-	url = https://github.com/AcheronProject/acheron_Symbols
+[submodule "kicad_files/libraries/--force"]
+	path = kicad_files/libraries/--force
+	url = https://github.com/AcheronProject/acheron_3D
+[submodule "kicad_files/libraries/acheron_3D"]
+	path = kicad_files/libraries/acheron_3D
+	url = https://github.com/AcheronProject/acheron_3D
 [submodule "kicad_files/libraries/acheron_Components.pretty"]
 	path = kicad_files/libraries/acheron_Components.pretty
 	url = https://github.com/AcheronProject/acheron_Components.pretty
 [submodule "kicad_files/libraries/acheron_Connectors.pretty"]
 	path = kicad_files/libraries/acheron_Connectors.pretty
 	url = https://github.com/AcheronProject/acheron_Connectors.pretty
-[submodule "kicad_files/libraries/acheron_Hardware.pretty"]
-	path = kicad_files/libraries/acheron_Hardware.pretty
-	url = https://github.com/AcheronProject/acheron_Hardware.pretty
-[submodule "kicad_files/libraries/acheron_MX_soldermask.pretty"]
-	path = kicad_files/libraries/acheron_MX_soldermask.pretty
-	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty
 [submodule "kicad_files/libraries/acheron_Graphics.pretty"]
 	path = kicad_files/libraries/acheron_Graphics.pretty
 	url = https://github.com/AcheronProject/acheron_Graphics.pretty
+[submodule "kicad_files/libraries/acheron_Hardware.pretty"]
+	path = kicad_files/libraries/acheron_Hardware.pretty
+	url = https://github.com/AcheronProject/acheron_Hardware.pretty
 [submodule "kicad_files/libraries/acheron_Logos.pretty"]
 	path = kicad_files/libraries/acheron_Logos.pretty
 	url = https://github.com/AcheronProject/acheron_Logos.pretty
-[submodule "kicad_files/libraries/acheron_3D"]
-	path = kicad_files/libraries/acheron_3D
-	url = https://github.com/AcheronProject/acheron_3D
+[submodule "kicad_files/libraries/acheron_MX_soldermask.pretty"]
+	path = kicad_files/libraries/acheron_MX_soldermask.pretty
+	url = https://github.com/AcheronProject/acheron_MX_soldermask.pretty
+[submodule "kicad_files/libraries/acheron_Symbols"]
+	path = kicad_files/libraries/acheron_Symbols
+	url = https://github.com/AcheronProject/acheron_Symbols
